@@ -1,0 +1,12 @@
+body,div {
+    max-width: 750px;
+    margin: 0 auto;
+    background-color: bisque;
+}
+.menu{
+    margin-bottom: 10px;
+    background-color: black;
+}
+#data_mhs {
+    margin: 0 auto;
+}
